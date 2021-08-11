@@ -3,6 +3,7 @@
 Prediction using Supervised ML
 
 This is a simple linear regression task as it involves just 2 variables.
+Regression is used for continuous valued variable and linear regressor is used as there exists linear relationship between the variables.
 
 Steps
 1. Import necessary modules
